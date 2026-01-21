@@ -1,0 +1,36 @@
+.dotaznik{
+    
+    background-color: white;
+    border: solid black;
+    flex-direction: column;
+    display: flex;
+    padding: 40px 50px;
+    font-family: monospace;
+    font-size: x-large;
+    border-radius: 20px;
+}
+ 
+.nadpis{
+    color: blue;
+    text-align: center;
+    margin-bottom: 5px;
+    
+}
+body{
+    background-color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+label{
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+input[type="submit"]:hover {
+    color: blue;
+}

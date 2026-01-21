@@ -1,0 +1,56 @@
+body {
+    background-color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tabulka{
+    justify-content: center;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+
+}
+
+.prihlasenie{
+    background-color: white;
+    width: 380px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+h1{
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+
+label{
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: black;
+}
+input{
+    width: 100%;
+    padding: 9px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.zabudnute{
+    display: block;
+    margin-top: 15px;
+    font-size: 14px;
+    color: deepskyblue;
+}
+button{
+    padding: 12px;
+    margin-top: 25px;
+    width: 100%;
+    background-color: deepskyblue;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}

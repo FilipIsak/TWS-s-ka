@@ -1,0 +1,183 @@
+/* HLAVIČKA A MENU */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    background-color: violet;
+}
+
+header {
+    background-color: rgb(52, 83, 174);
+    color: white;
+    padding: 20px 25px;
+}
+
+#logo {
+    font-size: 30px;
+    font-weight: bold;
+}   
+
+main {
+    padding: 25px;
+}
+
+/*ROZVRH*/
+
+table {
+
+    background-color: aliceblue;
+    border:3px solid black;
+    border-collapse: collapse;
+    width: 800px;
+    height: 300px;
+
+}
+td, tr, th {
+    border: 3px solid black;
+    text-align: center;
+    font-size: 25px;
+}
+
+.nic {
+    background-color: black;
+}
+
+.odkaz {
+    text-align: center;
+    color: red;
+}
+.nadpis {
+    text-align: center;
+}
+.MAT {
+    background-color: aqua;
+}
+.SJL {
+    background-color: blue;
+}
+.FYZ {
+    background-color: greenyellow;
+}
+.PRO {
+    background-color: lightcoral;
+}
+.ANJ {
+    background-color: lightslategray;
+}
+.DEJ {
+    background-color: burlywood;
+}
+.AET {
+    background-color: green;
+}
+.ZIT {
+    background-color: coral;
+}
+.TSV {
+    background-color: paleturquoise;
+}
+.SIE {
+    background-color: tomato;
+}
+.INF {
+    background-color: lime;
+}
+.TWS {
+    background-color: pink;
+}
+.ZPX {
+    background-color: bisque;
+}
+.OZP {
+    background-color: yellow;
+}
+.NBV {
+    background-color: blueviolet;
+}
+.OBN {
+    background-color: maroon;
+}
+  
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    margin-left: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+/* OBRÁZKY */
+img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+
+/* FORMULÁR */
+form {
+    background-color: white;
+    padding: 20px;
+    max-width: 500px;
+    border: 1px solid #ccc;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, textarea, button {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+/* GALÉRIA */
+.galeria {
+    display: flex;
+    gap: 20px;
+    
+}
+
+.galeria-item {
+    width: 200px;
+    background-color: rgb(181, 136, 76);
+    padding: 10px;
+    text-align: center;
+}
+.ja {
+    width: 200px;
+    height: auto;
+    }

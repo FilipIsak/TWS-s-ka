@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(to bottom, red,green,blue);
+}   
+h1{
+    text-align: center;
+    background-image: linear-gradient(to left, pink,white,brown);
+}
+h2{
+    text-align: center;
+    text-shadow: 1px 2px 5px black;
+    color: white;
+    border: 5px dotted purple;
+}
+

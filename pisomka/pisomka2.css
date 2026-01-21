@@ -1,0 +1,23 @@
+.body {
+    background-color: hotpink;
+}
+.title {
+    color: blue;
+    font-family: fantasy;
+    text-align:center;
+}
+.text {
+    margin: 80px;
+}
+.box {
+    border: 6px solid black;
+    color: red;
+    background-color: white;
+    padding: 70px;
+    width: 1000px;
+    font-size: 30px;
+}
+.box {
+    background-color: aliceblue;
+    color: red;
+}

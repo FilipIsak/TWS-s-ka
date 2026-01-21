@@ -1,0 +1,75 @@
+table {
+
+    background-color: aliceblue;
+    border:3px solid black;
+    border-collapse: collapse;
+    width: 800px;
+    height: 300px;
+
+}
+td, tr, th {
+    border: 3px solid black;
+    text-align: center;
+    font-size: 25px;
+}
+body {background-color: violet;
+}
+.nic {
+    background-color: black;
+}
+
+.odkaz {
+    text-align: center;
+    color: red;
+}
+.nadpis {
+    text-align: center;
+}
+.MAT {
+    background-color: aqua;
+}
+.SJL {
+    background-color: blue;
+}
+.FYZ {
+    background-color: greenyellow;
+}
+.PRO {
+    background-color: lightcoral;
+}
+.ANJ {
+    background-color: lightslategray;
+}
+.DEJ {
+    background-color: burlywood;
+}
+.AET {
+    background-color: green;
+}
+.ZIT {
+    background-color: coral;
+}
+.TSV {
+    background-color: paleturquoise;
+}
+.SIE {
+    background-color: tomato;
+}
+.INF {
+    background-color: lime;
+}
+.TWS {
+    background-color: pink;
+}
+.ZPX {
+    background-color: bisque;
+}
+.OZP {
+    background-color: yellow;
+}
+.NBV {
+    background-color: blueviolet;
+}
+.OBN {
+    background-color: maroon;
+}
